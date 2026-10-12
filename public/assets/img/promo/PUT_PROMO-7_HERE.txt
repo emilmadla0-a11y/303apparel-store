@@ -1,0 +1,6 @@
+Put a photo here named promo-7.jpg. The countdown banner on the landing page
+(index.html) uses it as its background.
+
+A wide shot works best, since the banner crops it to a short strip. If the file
+has a different name, rename it or update the url('assets/img/promo/promo-7.jpg')
+line in index.html. Without the file, the banner shows a plain navy gradient.
